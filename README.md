@@ -14,7 +14,7 @@
 ###### Transposing my love into code
 
 ###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
-###### [Consuela] (https://github.com/CaioMadeira/Consuela)
+###### [Consuela](https://github.com/CaioMadeira/Consuela)
 ###### [4 Rolling](https://github.com/CaioMadeira/4rolling)
 
 
