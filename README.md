@@ -1,15 +1,22 @@
-### Hi there 👋
+## **Welcome, Let me guide you...**
 
-Here are some ideas to get you started:
 
+
+> ## 🚀 I know you?
+
+My name is Caio Madeira. Brazilian developer 🇧🇷 focused 
+on **Swift** and **Python**, but of course, without 
+losing curiosity for other languages.
+
+Currently, I study at PUC-Rio and work as an iOS developer 📱
+
+```
 git status
+git add
+git commit
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 
