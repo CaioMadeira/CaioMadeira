@@ -11,20 +11,13 @@
 
 ### Swift Projects
 
-[Consuela](https://github.com/CaioMadeira/Consuela)  
-[4 Rolling](https://github.com/CaioMadeira/4rolling)
+
 
 ### Python Projects
 
-###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
-###### [Consuela](https://github.com/CaioMadeira/Consuela)
-###### [4 Rolling](https://github.com/CaioMadeira/4rolling)
 
 ### Other Projects
 
-###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
-###### [Consuela](https://github.com/CaioMadeira/Consuela)
-###### [4 Rolling](https://github.com/CaioMadeira/4rolling)
 
 ## 📷 Social Medias
 
@@ -43,21 +36,16 @@
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image"/></td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
+    <td>
+    <a href="https://github.com/CaioMadeira/4rolling">4 Rolling</a></td>
+    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image"/></td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
+<td><a href="https://github.com/CaioMadeira/Cryptosome">Cryptosome</a></td>
+    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image"/></td>
   </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-  </tr>
+
+
 </table>
 
 
