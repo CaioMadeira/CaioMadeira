@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/CaioMadeira/The-Philosopher-BOT">The Philosopher Bot</a></td>
-    <td><img src="icons/icon_philosopher.png" alt="Sublime's custom image"/></td>
+    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image"/></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
