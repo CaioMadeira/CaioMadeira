@@ -11,7 +11,6 @@
 
 ### Swift Projects
 
-[The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT)  
 [Consuela](https://github.com/CaioMadeira/Consuela)  
 [4 Rolling](https://github.com/CaioMadeira/4rolling)
 
@@ -34,17 +33,14 @@
 
 
 <table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-  </tr>
+
   <tr>
     <td><a href="https://github.com/CaioMadeira/The-Philosopher-BOT">The Philosopher Bot</a></td>
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image"/></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td><a href="https://github.com/CaioMadeira/Consuela">Consuela</a></td>
+    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image"/></td>
   </tr>
   <tr>
     <td>Ernst Handel</td>
