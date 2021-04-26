@@ -9,7 +9,7 @@
 
 ## 🖥️ Projects
 
-### Main projects in Swift
+### Main projects in Swift&nbsp;&nbsp;|&nbsp;&nbsp;Main projects in Python
 
 <table>
   <tr>
@@ -26,8 +26,6 @@
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_terminalfatal.png" alt=""/></td>
   </tr>
 </table>
-
-### Main projects in Python
 
 <table>
   <tr>
