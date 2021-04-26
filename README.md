@@ -9,12 +9,23 @@
 
 ## 🖥️ Projects
 
-### Python
+### Swift Projects
 
 ###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
 ###### [Consuela](https://github.com/CaioMadeira/Consuela)
 ###### [4 Rolling](https://github.com/CaioMadeira/4rolling)
 
+### Python Projects
+
+###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
+###### [Consuela](https://github.com/CaioMadeira/Consuela)
+###### [4 Rolling](https://github.com/CaioMadeira/4rolling)
+
+### Other Projects
+
+###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
+###### [Consuela](https://github.com/CaioMadeira/Consuela)
+###### [4 Rolling](https://github.com/CaioMadeira/4rolling)
 
 ## 📷 Social Medias
 
