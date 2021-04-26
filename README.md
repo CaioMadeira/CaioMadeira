@@ -11,7 +11,7 @@
 
 ### Main projects in Swift&nbsp;&nbsp;|&nbsp;&nbsp;Main projects in Python
 
-<table>
+<table style="display: inline-block;">
   <tr>
 <td><a href="https://github.com/CaioMadeira/Cryptosome-iOS">Cryptosome iOS</a></td>
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt=""/></td>
@@ -25,9 +25,10 @@
     <a href="https://github.com/CaioMadeira/TerminalFatal">Terminal Fatal</a></td>
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_terminalfatal.png" alt=""/></td>
   </tr>
+
 </table>
 
-<table>
+<table style="float: left;">
   <tr>
     <td><a href="https://github.com/CaioMadeira/The-Philosopher-BOT">The Philosopher Bot</a></td>
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image"/></td>
