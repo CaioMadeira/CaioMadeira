@@ -11,6 +11,11 @@
 
 ### Main projects in Swift&nbsp;&nbsp;|&nbsp;&nbsp;Main projects in Python
 
+
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
+
 <table style="display: inline-block;">
   <tr>
 <td><a href="https://github.com/CaioMadeira/Cryptosome-iOS">Cryptosome iOS</a></td>
@@ -27,6 +32,9 @@
   </tr>
 
 </table>
+
+
+</td><td>
 
 <table style="float: left;">
   <tr>
@@ -47,20 +55,6 @@
     <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image"/></td>
   </tr>
 </table>
-
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
-
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
-
-</td><td>
-
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
 
 </td></tr> </table>
 ### Other projects in other languages
