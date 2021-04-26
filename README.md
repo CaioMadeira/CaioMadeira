@@ -9,11 +9,8 @@
 
 ## 🖥️ Projects
 
-### Main projects in Swift&nbsp;&nbsp;|&nbsp;&nbsp;Main projects in Python
-
-
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>Main projects in Swift</th><th>Main projects in Python</th></tr>
 <tr><td>
 
 <table style="display: inline-block;">
