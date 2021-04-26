@@ -7,9 +7,9 @@
 
 
 
-## 🖥️ Personal projects
+## 🖥️ Projects
 
-###### Transposing my love into code
+### Python
 
 ###### [The Philosopher BOT](https://github.com/CaioMadeira/The-Philosopher-BOT) 
 ###### [Consuela](https://github.com/CaioMadeira/Consuela)
