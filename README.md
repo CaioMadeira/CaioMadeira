@@ -8,7 +8,6 @@
 
 
 ## 🖥️ Projects
-``Main projects in the respective languages:``
 <table>
 <tr><th>Main projects in Swift</th><th>Main projects in Python</th></tr>
 <tr><td>
